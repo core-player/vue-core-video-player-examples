@@ -9,6 +9,7 @@ import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 
 import './style/custom.css'
+
 import 'vue-core-video-player/dist/vue-core-video-player.css'
 
 

@@ -43,7 +43,6 @@ export default {
     MovieItem,
     RecommendedItem
   },
-
   data() {
     return {
       title: '',
@@ -58,7 +57,7 @@ export default {
 <style>
   .example-player {
     position: relative;
-    height: 360px;
+    height: 410px;
     background-color: #000;
   }
   .movie-detail{
@@ -103,4 +102,3 @@ export default {
     clear: both;
   }
 </style>
-
