@@ -35,6 +35,7 @@ const DATA = [{
   title: 'Your Name',
   author: 'Matoko Shinkai',
   date: '2016',
+  desc: "Mitsuha Miyamizu is a high school girl living in the town of Itomori in Japan's mountainous Hida region. She is bored with country life and wishes to be a handsome boy in her next life. She begins to switch bodies intermittently with Taki Tachibana, a high school boy in Tokyo, when they wake up. They communicate by writing messages on paper, their phones, and sometimes on each other's skin. Mitsuha causes Taki to develop a relationship with his coworker Miki, while Taki causes Mitsuha to become popular in school.",
   link: 'https://www.bilibili.com/bangumi/play/ss12044/?from=search&seid=9670386519186098373',
   cover: '/images/vpc-example-cover-your-name.png',
   cover2: '/images/vpc-example-cover-your-name-v.jpg',
