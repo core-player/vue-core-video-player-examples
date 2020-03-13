@@ -8,7 +8,7 @@
 
     <b-collapse id="nav-collapse" is-nav>
       <b-navbar-nav>
-        <b-nav-item href="https://github.com/core-player/vue-core-video-player/tree/master/docs">Docs</b-nav-item>
+        <b-nav-item href="https://core-player.github.io/vue-core-video-player/">Docs</b-nav-item>
         <b-nav-item href="https://github.com/core-player/vue-core-video-player-examples">Examples</b-nav-item>
       </b-navbar-nav>
 

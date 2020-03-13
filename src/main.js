@@ -10,8 +10,6 @@ import 'bootstrap-vue/dist/bootstrap-vue.css'
 
 import './style/custom.css'
 
-import 'vue-core-video-player/dist/vue-core-video-player.css'
-
 
 Vue.config.productionTip = false
 

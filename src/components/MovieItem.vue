@@ -1,5 +1,5 @@
 <template>
-  <div class="movie-item">
+  <div class="movie-item" @click="changeMovie">
     <div class="cover">
       <img :src="item.cover" alt="cover" />
       <div class="duration">{{item.duration}}</div>
@@ -18,6 +18,15 @@ export default {
     item: Object,
   },
   name: 'MovieItem',
+  methods: {
+    changeMovie () {
+      if (location.search) {
+        location.href = location.href.replace(/\?vid=([a-z]+)/, '?vid=' + this.item.id)
+      } else {
+        location.href = location.href + '?vid=' + this.item.id
+      }
+    }
+  },
 }
 </script>
 

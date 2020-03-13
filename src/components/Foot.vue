@@ -4,7 +4,7 @@
       <b-row>
         <b-col>
           <p>
-            <img width="90" alt="logo" src="https://img1.wxzxzj.com/vue-core-video-player-logo-white.png" />
+            <img width="80" alt="logo" src="https://img1.wxzxzj.com/vue-core-video-player-logo-white.png" />
           </p>
           <p>Copyright © 2020 CORE-PLAYER</p>
         </b-col>
