@@ -1,6 +1,6 @@
 # vue-core-video-player-examples
 
-Some deoms of [vue-core-video-player](https://github.com/core-player/vue-core-video-player)
+Some demos of [vue-core-video-player](https://github.com/core-player/vue-core-video-player)
 
 
 [Preview](http://events.jackpu.com/vue-core-video-player-examples/)
